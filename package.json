@@ -1,0 +1,22 @@
+{
+  "name": "audio-metadata-remover",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/purpl5/audio-metadata-remover.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/purpl5/audio-metadata-remover/issues"
+  },
+  "homepage": "https://github.com/purpl5/audio-metadata-remover#readme",
+  "dependencies": {
+    "ffmetadata": "^1.7.0"
+  }
+}
